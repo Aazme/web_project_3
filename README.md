@@ -1,20 +1,9 @@
-# Project 3: From Portland to Portland
+Project Name: From Portland to Portland
 
-### Overview
-* Intro
-* Figma
-* Images
 
-**Intro**
+A places to travel in USA, from Portland to Portland.
 
-This is a project about traveling across the US. We've made it so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
+Check the Project: [LINK](https://aazmy.github.io/web_project_3/)
 
-**Figma**
+Landing page website that uses HTML, CSS and animation techniques to provide a wonderful site! the code was organized using BEM Techniques. Thanks to Figma too!
 
-* [Link to the project on Figma](https://www.figma.com/file/lNsn9aE1Be6bvg9FeAzRXT/Sprint-3-From-Portland-to-Portland-desktop-mobile?node-id=0%3A1)
-
-**Images**
-
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-
-Good luck and have fun!

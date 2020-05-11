@@ -65,7 +65,7 @@
   }
 }
 
-@media screen and (min-device-width: 1280px) {
+@media screen and (min-width: 1280px) {
   .cover__link {
       margin-top: 88px;
       width: 1184px;

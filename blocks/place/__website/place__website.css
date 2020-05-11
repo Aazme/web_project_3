@@ -9,17 +9,7 @@
 @media screen and (max-width: 768px) {
     .place__website {
         margin-bottom: 48px;
-    }
-}
-
-@media only screen and (min-device-width: 567px) and (max-device-width: 767px) {
-    .place__website {
         display: none;
-    }
-}
 
-@media only screen and (min-device-width: 320px) and (max-device-width: 568px) {
-    .place__website {
-        display: none;
     }
 }

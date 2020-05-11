@@ -3,13 +3,12 @@
     flex-direction: column;
     justify-content: flex-end;
     align-self: end;
-    margin-bottom: 58px;
 }
 
-@media screen and (max-width: 768px) {
-    .place__website {
-        margin-bottom: 48px;
-        display: none;
 
+
+@media screen and (max-width: 414px){
+    .place__website {
+    display: none;
     }
 }

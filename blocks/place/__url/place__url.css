@@ -1,14 +1,13 @@
-
-.place__url {
-    grid-area: url;
-
-    font-size: 18px;
-    line-height: 1.5;
-    text-decoration-line: underline;
-    color: #FFFFFF;
-    transition: opacity 0.4s ease-out;
+.place__url{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    grid-area:  url;
 }
 
-.place__url:hover{
-    opacity: 0.4;
+
+@media screen and (max-width: 414px){
+    .place__url{
+        display: none;
+    }
 }
